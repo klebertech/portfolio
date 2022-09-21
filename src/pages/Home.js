@@ -8,7 +8,7 @@ export default class Home extends Component {
       <main className="flex flex-wrap flex-col h-screen bg-gradient-to-t from-cyan-500 to-blue-600">
         <Header />
         <section id="initial" className="">
-          <div className="mt-20 w-3/4 sm:mt-46 xl:mt-6 sm:w-1/2 mx-auto xl:ml-auto ">
+          <div className="mt-12 w-3/4 sm:mt-46 xl:mt-6 sm:w-1/2 mx-auto xl:ml-auto ">
             <h1 className="text-xl font-bold text-green-400 mb-4">
                {"<Kleber Tavares/>"}
             </h1>

@@ -8,7 +8,7 @@ export default function Header() {
         <img
           src="./images/profile.png"
           alt="Kleber"
-          className="absolute border-4 border-green-400/50 rounded-full mt-10 w-36 2xl:w-60 lg:mt-30 2xl:mt-12" />
+          className="absolute border-4 border-green-400/50 rounded-full mt-4 w-36 2xl:w-60 lg:mt-30 2xl:mt-12" />
       </div>
     </div>
   )
